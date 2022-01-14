@@ -38,4 +38,5 @@ XY<br>
 X->X+YF<br>
 Y->FX-Y<br>
 
-![Example](https://doc-04-1c-docs.googleusercontent.com/docs/securesc/k2e9tekvd4l9efm58cqf0dmmij686opn/i0ko0a01c8i75u5vku46m02sjf7msk3n/1642186875000/05409930939227430098/05409930939227430098/13BJXy3gV6pq5yLWU8UtR3exLMNJOBqdF?e=view&authuser=0)
+![Example](https://drive.google.com/uc?export=view&id=13BJXy3gV6pq5yLWU8UtR3exLMNJOBqdF)
+
