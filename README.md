@@ -6,7 +6,7 @@ It has these flags:
 * "-" - back rotate by angle
 * "|" - rotate by 180 degrees
 * "f" - move forward
-* "F" - move and draw forward
+* "F" - move forward and draw
 * "[" - save current position
 * "]" - restore remembered position
 
@@ -38,5 +38,4 @@ XY<br>
 X->X+YF<br>
 Y->FX-Y<br>
 
-![Example](https://downloader.disk.yandex.ru/preview/eba1d484f686a8211584d53dd42b64efdb43d92f4ae7b273306d7c1499efdab0/61e185a8/R6wRjfrkRQUazQCE3JjnfsMu00Qn7GYXNmndteD0PKM3ijEVkPkMgcwHMIUaluSQh2XA7Z60ZhXrx--IpT6veg%3D%3D?uid=0&filename=2022-01-14_13-15-10.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x1333)
-
+![Example](https://drive.google.com/file/d/13BJXy3gV6pq5yLWU8UtR3exLMNJOBqdF/view)
